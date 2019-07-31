@@ -13,9 +13,9 @@ Users can:
 
 ### Sprints
 - [x] days 0-1: draft epic, user stories, and sprint timeline
-- [] days 1-5: create local instance of magic-box front-end, back-end, and pull school connectivity data from api
-- [] days 6-10: integrate web3 user capability for distributed order making and taking
-- [] days 11-15: polish front end design
+- [ ] days 1-5: create local instance of magic-box front-end, back-end, and pull school connectivity data from api
+- [ ] days 6-10: integrate web3 user capability for distributed order making and taking
+- [ ] days 11-15: polish front end design
 
 ### Tech Stack
 - MongoDB to process API data
