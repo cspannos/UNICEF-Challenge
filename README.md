@@ -9,7 +9,9 @@ In this MVP, Users can:
 - see a list of countries
 - select a specific country and view the schools related to the selected item
 - view the schools that are connected and not connected for that country
-- see the status of that country (e.g. if donors have provided funding, if ISPs are engaged, number of schools connected and not connected etc.)
+-  see the status of that country (e.g. if donors have provided funding, if ISPs are engaged, number of schools connected and not connected etc.)
+- see school orders to fulfill ISP connectivity
+- take an order to fund ISP connectivity for a school
 
 ### Sprints
 - [x] days 0-1: draft epic, user stories, and sprint timeline
@@ -20,4 +22,4 @@ In this MVP, Users can:
 ### Tech Stack
 - MongoDB to process API data
 - ReactJS / OpenStreet Map for front-end
-- For order making and taking, an early candidate is 0x integration, for sotring transactions on the Ethereum blockchain.
+- For order making and taking, an early candidate is 0x integration, for storing transactions on the Ethereum blockchain.
