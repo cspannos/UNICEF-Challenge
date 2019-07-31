@@ -2,7 +2,7 @@
 My project for the Grow Ethereum Hackathon - The UNICEF Challenge: Reducing The Digital Divide
 
 ## Epic:
-In this MVP scenario schools, as "makers", can use distributed consensus blockchain technology to "make" an order to fund ISP connectivity. Governments and others, known as "takers", can take the order to fulfill the order request.  
+In this MVP schools, as "makers", can use distributed consensus blockchain technology to "make" an order to fund ISP connectivity. Governments and others, known as "takers", can take the order to fulfill the order request.  
 
 ### Stories
 In this MVP, Users can:
